@@ -1,4 +1,3 @@
-#Makerdemy
 #Home Automation Using Raspberry Pi
 #Intruder Detection System
 #Motion Detection Section
